@@ -1,0 +1,15 @@
+.body {
+  color:##ac986c;
+}
+.navbar {
+  padding 1rem;
+  background-color: #042564;
+}
+.minnie-bg{
+  background-image: url("minnie.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:100px;
+}
